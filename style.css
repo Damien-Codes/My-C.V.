@@ -59,6 +59,7 @@ section{
     margin: 20px auto;
     box-shadow: 0px 0px 10px #bbb;
     background-color: #fff;
+    border-radius: 25px;
 }
 
 section h2{
@@ -172,37 +173,41 @@ section > div{
 }
 .c85{
     width: 85%;
-    background-color: #8B8;
+    background-color: rgb(103, 31, 185);
 }
 .c80{
     width: 80%;
-    background-color: #8B8;
+    background-color: rgb(103, 31, 185);
 }
 .c90{
     width: 90%;
-    background-color: #4B8;
+    background-color: rgb(103, 31, 185);
 }
 .c95{
-    width: 95%;
-    background-color: #4B8;
+    width: 85%;
+    background-color: rgb(103, 31, 185);
 }
 .c100{
-    width: 100%;
-    background-color: #4B8;
+    width: 90%;
+    background-color: rgb(103, 31, 185);
     border-radius: 5px;
 }
 .c75{
     width: 75%;
-    background-color: #4B8;
+    background-color: rgb(103, 31, 185);
 }
 .c35{
     width: 35%;
-    background-color: #4B8;
+    background-color: rgb(103, 31, 185);
 }
 .c25{
     width: 25%;
-    background-color: #4B8;
+    background-color: rgb(103, 31, 185);
     border-radius: 5px;
+}
+.c45{
+    width: 5%;
+    background-color: rgb(103, 31, 185);
 }
 .comp2{
     display: flex;
